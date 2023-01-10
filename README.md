@@ -2,7 +2,7 @@
 # UAS
 ## Nama  : Danang Nurcahyo
 ## NIM   : 312210004
-## Kelas : TI.22.A3
+## Kelas : TI.22.A1
 ### Package dan module
 
 ![Screenshot (718)](https://user-images.githubusercontent.com/115686359/210766307-7c0963ba-ea6b-4a3c-8e6c-36b0a571366c.png)

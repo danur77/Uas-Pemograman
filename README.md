@@ -78,22 +78,25 @@ class daftarnilai():
 
 ### Output Tambah_data:
 
-![Screenshot (706)](https://user-images.githubusercontent.com/115686359/210776507-a2474e79-a293-4c78-a662-166614c8d320.png)
+![Screenshot 2023-01-11 145910](https://user-images.githubusercontent.com/115677839/211757242-4778b733-26a5-41a8-9831-bd857d30ee7b.png)
+
 
 ### Output Daftar_nilai:
-
-![Screenshot (707)](https://user-images.githubusercontent.com/115686359/210777076-24c583e9-5e0a-46b9-98f7-b88555ae1aaa.png)
+![Screenshot 2023-01-11 145946](https://user-images.githubusercontent.com/115677839/211757390-8a64d809-b058-4751-8279-fce3ee5deb5e.png)
 
 ### Output Ubah_data:
 
-![Screenshot (708)](https://user-images.githubusercontent.com/115686359/210777388-5d29d18b-c37f-41f8-ac47-0636d7a374fa.png)
+![Screenshot 2023-01-11 150304](https://user-images.githubusercontent.com/115677839/211757499-60205a5b-4066-4ced-a569-81a7ddb85e80.png)
+
 
 ### Output Cari_data:
+![Screenshot 2023-01-11 150337](https://user-images.githubusercontent.com/115677839/211757601-3a1f299c-0c1d-45ae-8482-4abb3f872b28.png)
 
-![Screenshot (709)](https://user-images.githubusercontent.com/115686359/210777567-e21e00f0-4457-4d7d-ab64-2922054bb941.png)
 
 ### Output Hapus_data:
+![image](https://user-images.githubusercontent.com/115677839/211757813-ec24a3a7-b828-4765-b3ca-11088233d5b1.png)
 
-![Screenshot (710)](https://user-images.githubusercontent.com/115686359/210777699-a356b089-4086-4ac3-82db-74a8024e8465.png)
 
-## Done!
+
+## finished
+
